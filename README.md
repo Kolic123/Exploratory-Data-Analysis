@@ -1,7 +1,5 @@
 # Exploratory Data Analysis & Regression Modeling
 
-A complete data science workflow on [dataset name] — from assumption testing to regression modeling.
-
 ## What's Inside
 
 - `LINE & lin reg.ipynb` — Data filtration, LINE assumptions testing and linear regression  
